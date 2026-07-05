@@ -1,0 +1,11 @@
+Thumbs.db
+Desktop.ini
+
+*.tmp
+*.bak
+*.old
+
+*.wav
+*.mp3
+
+.DS_Store
