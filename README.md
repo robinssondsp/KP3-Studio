@@ -9,10 +9,10 @@
              _____________________________
             /                            /|
            /____________________________/ |
-           |                            | |                      ◙ Voicemeeter             ◎ KORG KP3
-           |        WINDOWS AUDIO       | |\💻 Laptop  ▶YouTube ─────────►   🍓FL Studio  ─────────►    Recording / Export
-           |                            | |                                               
-           |   ▶ YouTube  ───────────►  | |                                  
+           |                            | |                                 
+           |        WINDOWS AUDIO       | |                       \💻 Laptop          
+           |                            | |           ◙ Voicemeeter           ◎ KORG KP3           
+           |   ▶ YouTube  ───────────►  | | ▶YouTube ─────────► 🍓FL Studio ─────────► Recording / Export                    
            |                 🍓 FL      | |
            |____________________________|/
                   ||             ||
