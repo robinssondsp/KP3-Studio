@@ -1,7 +1,5 @@
-# ==========================================================
-          Windows → YouTube → FL Studio → KP3
-# ==========================================================
 
+          Windows → YouTube → FL Studio → KP3
 > Repositorio oficial del estudio de producción basado en **KORG KAOSS PAD KP3**.
 
 ---
