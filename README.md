@@ -15,6 +15,12 @@
 
 ---
 
+╭────────── YouTube ──────────╮══════╦══════╭──── FL Studio ────╮
+│             ▶               │      ║      │       🍊          │
+╰─────────────────────────────╯      ║      ╰───────────────────╯
+                                     ║
+                               Audio + MIDI
+
 ## Objetivo
 
 Este repositorio almacena toda la infraestructura necesaria para reconstruir completamente mi estudio de producción en cualquier computadora.
