@@ -9,8 +9,8 @@
              _____________________________
             /                            /|
            /____________________________/ |
-           |                            | |                      ◙ Voicemeeter             KORG KP3
-           |        WINDOWS AUDIO       | |\💻 Laptop  ▶YouTube ─────────► 🍓FL Studio  ─────────►    Recording / Export
+           |                            | |                      ◙ Voicemeeter             ◎ KORG KP3
+           |        WINDOWS AUDIO       | |\💻 Laptop  ▶YouTube ─────────►   🍓FL Studio  ─────────►    Recording / Export
            |                            | |                                               
            |   ▶ YouTube  ───────────►  | |                                  
            |                 🍓 FL      | |
@@ -20,19 +20,6 @@
              _____||_____________||_____
             /___________________________\
 
-           KAOSS PAD KP3
-
-╭──────────────────────────────╮
-│ ┌──────────────────────────┐ │
-│ │                          │ │
-│ │           ✚              │ │
-│ │           │              │ │
-│ │───────────┼────────────  │ │
-│ │           │              │ │
-│ │           ●              │ │
-│ └──────────────────────────┘ │
-│ ● ● ● ●   FX   HOLD   TAP  ◎ │
-╰──────────────────────────────╯
 
 Windows → YouTube → Voicemeeter → FL Studio → KP3 → Recording
 
