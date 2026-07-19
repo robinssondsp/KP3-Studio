@@ -7,5 +7,7 @@ Desktop.ini
 
 *.wav
 *.mp3
+# FL Studio
+**/Backup/
 
 .DS_Store
