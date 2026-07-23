@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/banner-kp3studio-v1.png" alt="KP3 Studio Banner" width="100%">
+</p>
+
 
           Windows → YouTube → FL Studio → KP3
 > Repositorio oficial del estudio de producción basado en **KORG KAOSS PAD KP3**.
