@@ -55,28 +55,15 @@ Diseñar, implementar y validar un flujo de audio estable capaz de transportar e
 
 <p align="center">
   <img src="assets/diagrams/Pipeline_v1.0.png"
+       alt="Pipeline de Audio Digital v1.0"<p align="center">
+  <img src="assets/diagrams/Pipeline_v1.0.png"
        alt="Pipeline de Audio Digital v1.0"
+       width="100%">
+</p>
        width="90%">
 </p>
 
-```text
-              Audio de Windows
-                     │
-                     ▼
-                  YouTube
-                     │
-                     ▼
-      Voicemeeter Input (VAIO)
-                     │
-                     ▼
-     Voicemeeter Virtual ASIO
-                     │
-                     ▼
-            Mixer de FL Studio
-                     │
-                     ▼
-         Monitoreo en tiempo real
-```
+
 
 ---
 
