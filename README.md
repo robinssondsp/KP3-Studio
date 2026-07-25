@@ -53,6 +53,12 @@ Diseñar, implementar y validar un flujo de audio estable capaz de transportar e
 
 # Arquitectura Implementada
 
+<p align="center">
+  <img src="assets/diagrams/Pipeline_v1.0.png"
+       alt="Pipeline de Audio Digital v1.0"
+       width="90%">
+</p>
+
 ```text
               Audio de Windows
                      │
