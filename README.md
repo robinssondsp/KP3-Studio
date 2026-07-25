@@ -58,6 +58,17 @@ Diseñar, implementar y validar un flujo de audio estable capaz de transportar e
        alt="Pipeline de Audio Digital v1.0"<p align="center">  
 </p>
 
+</p>
+
+**Descripción del flujo:**
+
+1. **Windows / YouTube:** fuentes de audio del sistema.
+2. **Voicemeeter Input (VAIO):** recibe el audio generado por Windows mediante el dispositivo virtual de entrada.
+3. **Voicemeeter Virtual ASIO:** transporta el audio con baja latencia hacia FL Studio.
+4. **FL Studio (Mixer):** recibe, monitorea y procesa el audio en tiempo real.
+5. **Salida:** reproducción mediante los altavoces configurados y preparación para futuras etapas de grabación y exportación.
+
+---
 
 
 ---
