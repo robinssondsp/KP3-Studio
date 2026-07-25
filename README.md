@@ -57,8 +57,6 @@ Diseñar, implementar y validar un flujo de audio estable capaz de transportar e
   <img src="assets/diagrams/Pipeline_v1.0.png"
        alt="Pipeline de Audio Digital v1.0"<p align="center">  
 </p>
-       width="90%">
-</p>
 
 
 
