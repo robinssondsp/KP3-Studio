@@ -112,9 +112,6 @@ Voicemeeter Input (VB-Audio Voicemeeter VAIO)
 permitiendo que cualquier aplicación del sistema pueda ser enviada directamente al Mixer de FL Studio.
 
 ---
-
-# Arquitectura Final
-
 # Arquitectura Final
 
 <p align="center">
