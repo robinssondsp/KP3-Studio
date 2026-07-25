@@ -115,24 +115,13 @@ permitiendo que cualquier aplicación del sistema pueda ser enviada directamente
 
 # Arquitectura Final
 
-```text
-                 Windows
-                    │
-                    ▼
-                YouTube
-                    │
-                    ▼
-       Voicemeeter Input (VAIO)
-                    │
-                    ▼
-      Voicemeeter Virtual ASIO
-                    │
-                    ▼
-           Mixer de FL Studio
-                    │
-                    ▼
-          Altavoces del portátil
-```
+# Arquitectura Final
+
+<p align="center">
+  <img src="assets/banner/Arquitecturafinal.png"
+       alt="Arquitectura Final del Pipeline de Audio"
+       width="100%">
+</p>
 
 ---
 
