@@ -7,21 +7,11 @@
 > Repositorio oficial del estudio de producción basado en **KORG KAOSS PAD KP3**.
 
 ---
-
-             _____________________________
-            /                            /|
-           /____________________________/ |
-           |                            | |                                 
-           |        WINDOWS AUDIO       | |                       \💻 Laptop          
-           |                            | |           ◙ Voicemeeter           ◎ KORG KP3           
-           |   ▶ YouTube  ───────────►  | | ▶YouTube ─────────► 🍓FL Studio ─────────► Recording / Export                    
-           |                 🍓 FL      | |
-           |____________________________|/
-                  ||             ||
-                  ||             ||
-             _____||_____________||_____
-            /___________________________\
-
+<p align="center">
+  <img src="assets/banner/roadmap.png"
+       alt="Roadmap General de KP3 Studio"
+       width="100%">
+</p>
 
 Windows → YouTube → Voicemeeter → FL Studio → KP3 → Recording
 
